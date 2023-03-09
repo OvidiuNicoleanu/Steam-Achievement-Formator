@@ -4,3 +4,6 @@
  Works both while logged in and logged out.
  Output is saved to 'output' folder.
  
+ Steam achievements checklist.
+ Steam achievements spreadsheet.
+ 
